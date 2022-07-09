@@ -1,2 +1,3 @@
 # myshell-list
-List Shell Gua
+List Shell Gua, kalo mau comot ya gpp
+- bay
